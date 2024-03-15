@@ -7,5 +7,11 @@ Options:
   <li>Changing the skin</li>
   <li>Sound off/on</li>
   <li>Keeping score in a database when you lose</li><br>
-  The program was written in Visual Studio and contains exclusively the Python language.
+  The program was written in Visual Studio and contains exclusively the Python language.<br>
+  Modules and frameworks used:
+  <li>pygame</li>
+  <li>sys</li>
+  <li>random</li>
+  <li>Os</li>
+  <li>Pygame.math</li>
 </h3>
