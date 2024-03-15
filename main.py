@@ -1,7 +1,7 @@
 import pygame
 import sys
 from button import Button
-from nivele import level_game, sound_func
+from levels import level_game, sound_func
 
 pygame.init()
 screen = pygame.display.set_mode((1280, 720))
