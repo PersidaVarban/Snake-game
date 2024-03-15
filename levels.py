@@ -75,7 +75,7 @@ def level_game(gamemode, skin):
                 self.body_br = pygame.image.load('photo/default_skin/body_br.png').convert_alpha()
                 self.body_bl = pygame.image.load('photo/default_skin/body_bl.png').convert_alpha()
             global enabled_sound, speed
-            self.crunch_sound =  pygame.mixer.Sound('sunete/crunch.wav')
+            self.crunch_sound =  pygame.mixer.Sound('sounds/crunch.wav')
             if enabled_sound:    
                 self.crunch_sound.set_volume(1.0)
             else:
